@@ -1,0 +1,20 @@
+{
+    "name": "gnucki-raphael",
+    "description": "Raphael for Node",
+    "version": "2.1.2",
+    "author": "Thomas Prelot <tprelot@gmail.com>",
+    "contributors": [],
+    "dependencies": {
+    },
+    "devDependencies": {
+    },
+    "keywords": [
+        "raphael"
+    ],
+    "repository": "git@github.com:Gnucki/raphael.git",
+    "scripts": {
+    },
+    "engines": {
+        "node": "*"
+    }
+}
